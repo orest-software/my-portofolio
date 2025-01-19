@@ -1,0 +1,26 @@
+
+.dark-theme {
+  background-color: #121212;
+  color: #fff;
+}
+
+body {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+nav {
+  background-color: #4CAF50;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
